@@ -1,0 +1,7 @@
+UI_EN {
+	UI_options_sitongroundhotkey_name = "Sit on Ground Hotkey",
+    UI_options_sitongroundhotkey_keybind_name = "Sit on Ground",
+    UI_options_sitongroundhotkey_keybind_tooltip = "The hotkey for performing the sit on ground action.",
+	UI_options_sitongroundhotkey_remove_cm_name = "Remove from Context Menu",
+    UI_options_sitongroundhotkey_remove_cm_tooltip = "Enable to remove the sit on ground option from the context menu.",
+}

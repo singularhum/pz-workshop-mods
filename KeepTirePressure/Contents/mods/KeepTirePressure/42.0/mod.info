@@ -1,0 +1,8 @@
+name=Keep Tire Pressure
+id=KeepTirePressure
+description=Uninstalling a tire will no longer set the tire pressure to 0.
+description=
+description=The game creates an item of the vehicle part when uninstalled so that it goes into your inventory/ground. When a tire item is created it attempts to set the tire pressure from the vehicle part but does so after the vehicle part is "cleared", causing it to always be set to 0.
+description=
+description=This mod keeps a copy of the tire pressure value before uninstalling and sets it to the tire item.
+poster=KeepTirePressure.png

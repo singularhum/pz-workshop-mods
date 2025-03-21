@@ -1,0 +1,8 @@
+version=1
+id=3444590285
+title=Sit on Ground Hotkey
+description=Allows setting a hotkey for the sit on ground action to rest and an option to remove it from the context menu.
+description=
+description=Go to Options > Mods > Sit on Ground Hotkey to set the options.
+tags=Build 42;Interface;QoL
+visibility=private

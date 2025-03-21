@@ -1,0 +1,4 @@
+name=Equip Clothing While Moving
+id=EquipClothingWhileMoving
+description=Allows clothing to be equipped while moving (walking/aiming). In vanilla you can unequip most clothing while moving but not for equipping. This mod makes it consistent.
+poster=EquipClothingWhileMoving.png
