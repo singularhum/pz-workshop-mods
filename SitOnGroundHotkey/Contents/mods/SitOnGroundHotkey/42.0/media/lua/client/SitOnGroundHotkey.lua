@@ -7,9 +7,9 @@ SitOnGroundHotkey.removeFromContextMenu = options:addTickBox("removeInContextMen
 SitOnGroundHotkey.onKeyPressed = function(keyPressed)
 	local player = getPlayer()
 	if not player then
-        return
-    end
-    if keyPressed == SitOnGroundHotkey.keybind:getValue() then
+		return
+	end
+	if keyPressed == SitOnGroundHotkey.keybind:getValue() then
 		player:reportEvent("EventSitOnGround")
 	end
 end
