@@ -1,4 +1,4 @@
-version=1
+version=2
 id=3446510982
 title=Equip Clothing While Moving
 description=Allows clothing to be equipped while moving (walking/aiming). In vanilla you can unequip most clothing while moving but not for equipping. This mod makes it consistent.
@@ -6,5 +6,5 @@ description=
 description=This applies to any clothing with a Wear option, except for clothing that already stops your movement like for legs and feet. Although you cannot move while equipping clothing for your legs and feet, it will now no longer cancel if you attempt to walk or aim, just like when unequipping.
 description=
 description=I originally created this mod for keeping a mask on after eating while walking. Eating automatically unequips your mask but would only re-equip your mask if you are standing completely still.
-tags=Build 42;QoL
-visibility=private
+tags=Build 41;Build 42;QoL
+visibility=public
